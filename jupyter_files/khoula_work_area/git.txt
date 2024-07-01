@@ -1,0 +1,33 @@
+goto our local filesystem and run:
+git clone https://github.com/CodelineAtyab/genz-todo-list-app.git
+
+Process of working on a task from start to end:
+
+1) Goto Clickup
+    -> Copy the ticket ID 
+2) Goto Github
+    -> Create a branch having ID as its name.
+    -> branch should be created from the main branch
+
+3) Goto our local git repo and do the following:
+    -> git pull
+    -> git checkout <name_of_new_branch>
+    -> git status (Example: On branch feature/86ep7cvnb-asynio)
+    
+4) Start working on the task, and when we have done a sub task then:
+    -> git add (puts change to the staging area)
+    -> git commit -m "some message" (create a snapshot of all things in the STAGING AREA)
+    -> git push
+    
+5) Goto gibhub and create a Pull Request (branches tab -> infront of the branch name)
+    -> Add Ticket ID and number in the title
+    -> Fill the template
+    -> Create PR
+    
+6) Wait for approvals.
+    -> Get 3 approvals
+    
+7) Squash Merge to main
+
+8) git checkout main
+    -> git pull
