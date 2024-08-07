@@ -1,0 +1,42 @@
+AGILE SCRUM (Methodology)
+
+Sprint = Duration of 2 weeks
+
+Backlog = Bucket of tasks (User Stories)
+
+Backlog Refinement = Pick some user storis based on priority and we estimate it.
+
+Sprint Planning = 100 story points
+
+Sprint Starts Next Day
+
+-> Daily Scrum (Daily Standup)
+
+10 working days are over
+
+the last day 10th days
+
+-> Sprint Review
+-> Sprint Retrospective
+
+-> Iterative and inceremental
+
+
+Product Owners
+Scrum Master
+Porject Leads (2 Sara and Abdul Aziz)
+
+Slack for communication
+ClickUp for project management (Agile SCRUM SDM)
+Zoom for recording the sessions
+Google Meets for remote session
+
+Github for our cloud repositories
+git for Version Control
+
+Open source tool for "Planning Poker"
+For retrospectives we use "Easyretro"
+
+Ticket can be a spike, bugfix or a user story
+
+git feature branch workflow
